@@ -14,7 +14,7 @@ C/C++ IDE 프로그램을 설치한 후,
 <br />
 지정한 "문장"이 출력된다.
 
-```
+```C
 #include <stdio.h>
 
 int main()
