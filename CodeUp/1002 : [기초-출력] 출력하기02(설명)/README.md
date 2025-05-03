@@ -9,7 +9,7 @@ Hello World
 (대소문자에 주의한다.)
 
 참고
-```
+```C
 #include <stdio.h>
 
 int main()
